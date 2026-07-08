@@ -1,6 +1,6 @@
 # Express JWT Auth CRUD API
 
-[Download the project documentation PDF](docs/project-documentation.pdf)
+[Download the project documentation PDF](./docs/TheoryQuestions.pdf)
 
 A complete Node.js + Express + MongoDB project with JWT-based authentication, secure password hashing, and protected CRUD endpoints for users.
 
